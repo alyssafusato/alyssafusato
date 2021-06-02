@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alyssafusato
-- 👀 I’m interested in Digital Design + UX
+- 👀 I’m interested in UX & Digital Design
 - 🌱 I’m currently learning After Effects, Blender, and more JavaScript
 - 💞️ I’m looking to collaborate on almost anything that needs a design!
 - 📫 How to reach me: a.c.fusato@gmail.com
